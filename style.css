@@ -258,6 +258,25 @@ button .fas {
   color: #003c71;
 }
 
+.attendee-list-section {
+  margin-top: 28px;
+  text-align: left;
+}
+
+.attendee-list-section h3 {
+  margin-bottom: 10px;
+  color: #475569;
+}
+
+#attendeeList {
+  list-style: none;
+}
+
+#attendeeList li {
+  padding: 8px 12px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
 /* Counter */
 #attendeeCount {
   color: #0071c5;
